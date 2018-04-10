@@ -1,0 +1,101 @@
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\bin\Release\QLKhachHang.exe.config
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\bin\Release\QLKhachHang.exe
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\bin\Release\QLKhachHang.pdb
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\bin\Release\MySql.Data.dll
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmDsKhChuaTang.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmDsKhNhanQua.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmGDWU.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmGDWUAll.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmKhachHang.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmKhachHangXem.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmKhachHangSua.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmKhachHangAdd.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmMain.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmTangQua.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmTangQuaSua.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmTangQuaAdd.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmTangQuaKH.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmWait.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmWait2.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.Properties.Resources.resources
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.csproj.GenerateResource.Cache
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.exe.licenses
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.exe
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.pdb
+F:\bao_desktop\KhaiHangQL_KhachHang\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.csprojResolveAssemblyReference.cache
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\bin\Release\QLKhachHang.exe.config
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\bin\Release\QLKhachHang.exe
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\bin\Release\QLKhachHang.pdb
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\bin\Release\MySql.Data.dll
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.csprojResolveAssemblyReference.cache
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmDsKhChuaTang.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmDsKhNhanQua.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmGDWU.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmGDWUAll.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmKhachHang.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmKhachHangXem.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmKhachHangSua.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmKhachHangAdd.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmMain.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmTangQua.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmTangQuaSua.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmTangQuaAdd.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmTangQuaKH.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmWait.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.frmWait2.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.Properties.Resources.resources
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.csproj.GenerateResource.Cache
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.exe.licenses
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.exe
+C:\Users\Bao\Desktop\QLKhachHang\QLKhachHang\obj\Release\QLKhachHang.pdb
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\bin\Release\QLKhachHang.exe.config
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\bin\Release\QLKhachHang.exe
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\bin\Release\QLKhachHang.pdb
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\bin\Release\MySql.Data.dll
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmDsKhChuaTang.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmDsKhNhanQua.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmGDWU.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmGDWUAll.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmKhachHang.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmKhachHangXem.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmKhachHangSua.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmKhachHangAdd.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmMain.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmTangQua.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmTangQuaSua.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmTangQuaAdd.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmTangQuaKH.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmWait.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmWait2.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.Properties.Resources.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.csproj.GenerateResource.Cache
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.exe.licenses
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.exe
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.pdb
+C:\Users\Bao\Desktop\QLKhachHang - Copy\QLKhachHang\obj\Release\QLKhachHang.frmConnect.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\bin\Release\QLKhachHang.exe
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\bin\Release\QLKhachHang.pdb
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\bin\Release\MySql.Data.dll
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmConnect.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmDsKhChuaTang.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmDsKhNhanQua.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmGDWU.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmGDWUAll.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmKhachHang.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmKhachHangXem.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmKhachHangSua.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmKhachHangAdd.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmMain.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmTangQua.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmTangQuaSua.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmTangQuaAdd.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmTangQuaKH.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmWait.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.frmWait2.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.Properties.Resources.resources
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.csproj.GenerateResource.Cache
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.exe.licenses
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.exe
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\obj\Release\QLKhachHang.pdb
+C:\Users\Bao\Desktop\QLKhachHang - Copy - Copy\QLKhachHang\bin\Release\QLKhachHang.exe.config
